@@ -1,0 +1,38 @@
+.a-item {
+  font-size: 20px;
+}
+.me {
+  color: white;
+  font-size: 17px;
+}
+.hobbies {
+  font-size: 17px;
+}
+
+.progress {
+  height: 40px;
+}
+
+.checked {
+  color: orange;
+}
+
+.ska {
+  font-size: 25px;
+}
+.skills {
+  font-size: 15px;
+}
+
+.barra {
+  color: black;
+  font-size: 22px;
+}
+
+.pContent {
+  margin-top: 10%;
+}
+
+.titulo {
+  font-size: 25px;
+}
