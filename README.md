@@ -20,4 +20,4 @@ Se utilizo la licencia MIT en este proyecto (https://github.com/jsmartinezn/My-w
 
 <b>6. Screenshot</b>
 
-Se puede visualizar una captura de pantalla de la pagina terminada en (https://github.com/jsmartinezn/My-web-page/blob/master/Screen%20Web.PNG)
+Se puede visualizar una captura de pantalla de la pagina terminada ![imagen](https://github.com/jsmartinezn/My-web-page/blob/master/images/Captura.PNG)
