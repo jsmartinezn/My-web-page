@@ -17,3 +17,7 @@ El proyecto fue realizado por Juan Sebastian Martinez (https://github.com/jsmart
 <b>5. Licencia</b>
 
 Se utilizo la licencia MIT en este proyecto (https://github.com/jsmartinezn/My-web-page/blob/master/LICENSE)
+
+<b>6. Screenshot</b>
+
+Se puede visualizar una captura de pantalla de la pagina terminada en (https://github.com/jsmartinezn/My-web-page/blob/master/Screen%20Web.PNG)
